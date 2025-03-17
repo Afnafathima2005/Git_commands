@@ -23,3 +23,5 @@ git add.  >> all file added to staging area
 git commit -m(messege) "my first commit"
 
 git clone respositery url >> for cloning a respositery from github
+
+git branch newbranch
